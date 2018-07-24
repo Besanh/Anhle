@@ -1,0 +1,43 @@
+.table{
+    margin: 0px auto;
+    width: 100%;
+}
+
+.id .first .last .phone .delete{
+    height: 100%;
+}
+.id{
+    width: 50px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.first{
+    width: 350px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.last{
+    width: 350px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.phone{
+    width: 300px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.delete{
+    width: 90px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.tc{
+    margin: 5px 0px 5px 0px;
+    height: 30px;
+    border-top: 1px solid #1ab188;
+}

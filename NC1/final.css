@@ -1,0 +1,46 @@
+.port .phone .number .status{
+    height: 200px;
+}
+.phone{
+    width: 100px;
+    height: 120px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.port{
+    width: 200px;
+    height: 120px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+    word-wrap: break-word;
+    
+}
+.number{
+    width: 250px;
+    height: 120px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+
+.status{
+    width: 590px;
+    height: 120px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+
+.tc{
+    height: 100%;
+    /*overflow: scroll;*/
+    margin-bottom: 7px;
+}
+.title{
+    clear: both;
+    margin: 0px auto;
+    font-weight: bold;
+    background-color: #1ab188;
+}

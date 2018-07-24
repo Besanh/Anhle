@@ -1,0 +1,38 @@
+.port .number .status{
+    height: 100%;
+}
+
+.port{
+    float: left;
+    width: 20%;
+    border: 1px solid #1ab188;
+    text-align: center;
+}
+
+.number{
+    float: left;
+    width: 40%;
+    border: 1px solid #1ab188;
+    text-align: center;
+}
+
+.status{
+    float: left;
+    width: 40%;
+    border: 1px solid #1ab188;
+    text-align: center;
+}
+
+.tc{
+    height: vh;
+    overflow: auto;
+    margin-bottom: 7px;
+}
+
+.title{
+    clear: both;
+    color: black;
+    margin: 0px auto;
+    font-weight: bold;
+    background-color: #1ab188;
+}

@@ -1,0 +1,42 @@
+.container{
+   border: 1px;
+}
+.date .time .sender .receiver .status .content{
+    height: 100%;
+}
+.date{
+    width: 50px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.time{
+    width: 350px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.sender{
+    width: 350px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.receiver{
+    width: 300px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.status{
+    width: 90px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.content{
+    width: 90px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}

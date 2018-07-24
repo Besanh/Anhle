@@ -1,0 +1,17 @@
+.container{
+    margin-top: 10px;
+}
+
+.dash{
+    float: left;
+    border: rgb(39, 238, 238);
+}
+
+.form{
+    margin: auto;
+    border: 1px solid;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}

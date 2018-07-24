@@ -1,0 +1,41 @@
+.port .number .dateTime .content{
+    height: 100%;
+}
+.port{
+    width: 100px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.number{
+    width: 200px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.dateTime{
+    width: 250px;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+
+.content{
+    width: 590px;
+    height: 100%;
+    border: 1px solid #1ab188;
+    float: left;
+    text-align: center;
+}
+.tc{
+    height: 40px;
+    overflow: auto;
+    margin-bottom: 7px;
+    border-top: 1px solid #1ab188;
+}
+.title{
+    clear: both;
+    margin: 0px auto;
+    font-weight: bold;
+    background-color: #1ab188;
+}
